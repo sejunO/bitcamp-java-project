@@ -10,5 +10,6 @@ public class APP{
         System.out.println("전화: 1111-2222");
         System.out.println("가입일: 2020-01-01");
         System.out.println("Linux에서 실행해봄");
+        System.out.println("Linux test");
     }
 }
